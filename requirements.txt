@@ -1,0 +1,11 @@
+tensorflow
+sklearn
+numpy
+pandas
+tqdm
+pyaudio
+librosa
+SpeechRecognition
+PyAudio
+pyttsx3
+websockets
