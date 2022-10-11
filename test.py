@@ -200,7 +200,7 @@ if __name__ == "__main__":
     model = create_model()
     # load the saved/trained weights
     model.load_weights("results/model.h5")
-    if not file or not os.path.isfile(file):
+    if not file:
         # if file not provided, or it doesn't exist, use your voice
         # print("Please talk")
         # put the file name here
